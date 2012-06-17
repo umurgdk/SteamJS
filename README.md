@@ -2,7 +2,7 @@
 
 **Steam.JS** is a client side javascript framework which makes easy to build one page ajax ***websites*** (not suitable for applications).
 
->Steam.JS is in early **alpha version**. Lot of necessary features are missing. But ready to use in production with some extra work.  
+>Steam.JS is in early **alpha version** and highly depented to **jQuery** and **Underscore.js** libraries. Lot of necessary features are missing. But ready to use in production with some extra work.  
 
 Feel free to ask for help. Please email to <umurgdk@gmail.com>
 
