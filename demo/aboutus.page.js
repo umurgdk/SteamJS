@@ -1,11 +1,3 @@
-/**
- * Created with JetBrains PhpStorm.
- * User: umur
- * Date: 29.05.2012
- * Time: 17:02
- * To change this template use File | Settings | File Templates.
- */
-
 var aboutus_page = new Steam.Page({
     name: 'About Us Page',
     initialize: function(cb) {
