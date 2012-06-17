@@ -4,6 +4,8 @@
 
 >Steam.JS is in early **alpha version**. Lot of necessary features are missing. But ready to use in production with some extra work.  
 
+Feel free to ask for help. Please email to <umurgdk@gmail.com>
+
   
 ### Features:
 
