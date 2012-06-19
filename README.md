@@ -1,6 +1,6 @@
 ![Steam.JS icon](http://umurgedik.com/steamjs/Logo.png)
 
-[demo](4m.umurgedik.com)
+[demo](4m.umurgedik.com) (dynamic website example. backend built on php)
 
 **Steam.JS** is a client side javascript framework which makes easy to build one page ajax ***websites*** (not suitable for applications).
 
